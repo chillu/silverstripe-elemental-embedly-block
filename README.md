@@ -1,8 +1,8 @@
 # Elemental Embed.ly Block
 
-[![Build Status](http://img.shields.io/travis/silverstripe/silverstripe-elemental-bannerblock.svg?style=flat)](https://travis-ci.org/silverstripe/silverstripe-elemental-bannerblock)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/silverstripe/silverstripe-elemental-bannerblock/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/silverstripe/silverstripe-elemental-bannerblock/?branch=master)
-[![codecov](https://codecov.io/gh/silverstripe/silverstripe-elemental-bannerblock/branch/master/graph/badge.svg)](https://codecov.io/gh/silverstripe/silverstripe-elemental-bannerblock)
+[![Build Status](http://img.shields.io/travis/chillu/silverstripe-elemental-embedly-block.svg?style=flat)](https://travis-ci.org/chillu/silverstripe-elemental-embedly-block)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/chillu/silverstripe-elemental-embedly-block/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/chillu/silverstripe-elemental-embedly-block/?branch=master)
+[![codecov](https://codecov.io/gh/chillu/silverstripe-elemental-embedly-block/branch/master/graph/badge.svg)](https://codecov.io/gh/chillu/silverstripe-elemental-embedly-block)
 [![SilverStripe supported module](https://img.shields.io/badge/silverstripe-supported-0071C4.svg)](https://www.silverstripe.org/software/addons/silverstripe-commercially-supported-module-list/)
 
 Allows embedding of various videos, images, rich media and social elements
@@ -59,4 +59,4 @@ All methods, with `public` visibility, are part of the public API. All other met
 
 ## Reporting Issues
 
-Please [create an issue](http://github.com/silverstripe/silverstripe-elemental-bannerblock/issues/new) for any bugs you've found.
+Please [create an issue](http://github.com/chillu/silverstripe-elemental-embedly-block/issues/new) for any bugs you've found.
