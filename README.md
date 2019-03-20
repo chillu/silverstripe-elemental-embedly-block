@@ -29,7 +29,7 @@ For customisations and an ad-free display, you'll need a paid plan.
 Install using Composer:
 
 ```
-composer require chillu/elemental-embedly
+composer require chillu/silverstripe-elemental-embedly
 ```
 
 Once complete, run `dev/build` from your browser, or command line via `vendor/bin/sake dev/build`.
