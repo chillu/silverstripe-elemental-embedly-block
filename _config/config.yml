@@ -1,0 +1,6 @@
+---
+Name: elementalembedlyblockconfig
+---
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - Chillu\ElementalEmbedlyBlock\Extension\EmbedlySiteConfigExtension
