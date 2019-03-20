@@ -15,10 +15,9 @@ class EmbedlySiteConfigExtension extends DataExtension
     {
         parent::updateCMSFields($fields);
 
-        $fields->addFieldToTab('Root.Main',
-            (new TextField('ElementalEmbedlyApiKey', 'Embedly API Key'))
-                ->setDescription('See https://docs.embed.ly/?path=docs/apis')
-        );
+        $apiField = (new TextField('ElementalEmbedlyApiKey', 'Embedly API Key'))
+            ->setDescription('See https://docs.embed.ly/?path=docs/apis');
+        $fields->addFieldToTab('Root.Main', $apiField);
 
         return $fields;
     }
