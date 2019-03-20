@@ -1,5 +1,5 @@
 {
-    "name": "chillu/elemental-embedly",
+    "name": "chillu/silverstripe-elemental-embedly",
     "description": "Embed media, articles and social feeds as a block for the silverstripe-elemental module",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -12,7 +12,7 @@
     "prefer-stable": true,
     "require": {
         "silverstripe/vendor-plugin": "^1.0",
-        "silverstripe/elemental": "^3"
+        "silverstripe/elemental": "^4"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
@@ -20,11 +20,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.x-dev"
-        },
-        "expose": [
-            "client/dist"
-        ]
+            "dev-master": "0.1.x-dev"
+        }
     },
     "autoload": {
         "psr-4": {
